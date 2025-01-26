@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gja1t/my-react-pwa/static/css/main.f855e6bc.css",
-    "main.js": "/gja1t/my-react-pwa/static/js/main.d88ec87a.js",
-    "static/js/488.ef0993aa.chunk.js": "/gja1t/my-react-pwa/static/js/488.ef0993aa.chunk.js",
-    "service-worker.js": "/gja1t/my-react-pwa/service-worker.js",
-    "static/media/logo.svg": "/gja1t/my-react-pwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/gja1t/my-react-pwa/index.html",
-    "main.f855e6bc.css.map": "/gja1t/my-react-pwa/static/css/main.f855e6bc.css.map",
-    "main.d88ec87a.js.map": "/gja1t/my-react-pwa/static/js/main.d88ec87a.js.map",
-    "488.ef0993aa.chunk.js.map": "/gja1t/my-react-pwa/static/js/488.ef0993aa.chunk.js.map"
+    "main.css": "/my-react-pwa/static/css/main.f855e6bc.css",
+    "main.js": "/my-react-pwa/static/js/main.db2c4784.js",
+    "static/js/488.ef0993aa.chunk.js": "/my-react-pwa/static/js/488.ef0993aa.chunk.js",
+    "service-worker.js": "/my-react-pwa/service-worker.js",
+    "static/media/logo.svg": "/my-react-pwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/my-react-pwa/index.html",
+    "main.f855e6bc.css.map": "/my-react-pwa/static/css/main.f855e6bc.css.map",
+    "main.db2c4784.js.map": "/my-react-pwa/static/js/main.db2c4784.js.map",
+    "488.ef0993aa.chunk.js.map": "/my-react-pwa/static/js/488.ef0993aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d88ec87a.js"
+    "static/js/main.db2c4784.js"
   ]
 }
